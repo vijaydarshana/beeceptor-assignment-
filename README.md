@@ -52,7 +52,7 @@ beeceptor-assignment
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/beeceptor-assignment.git
+git clone https://github.com/vijaydarshana/beeceptor-assignment
 ```
 
 Go to project
